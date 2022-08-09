@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(213, 213, 220);
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+}
+
+#demo {
+    color: red;
+    font-weight: bold;
+}
+#demo1 {
+    color: red;
+    font-weight: bold;
+}
+#display {
+    color: red;
+    font-weight: bold;
+}
+#display1 {
+    color: red;
+    font-weight: bold;
+}
+
+#topup {
+    color: red;
+    font-weight: bold;
+}
+
+/* exit page */
+#displayDateTime {
+    /* margin: 0 auto; */
+    display: flex;
+    justify-content: center;
+}
+
+.button h4{
+    margin: 5px auto;
+}
+#button {
+    margin: 5px auto;
+    display: flex;
+    /* text-decoration: none; */
+    font-size: 18px;
+    cursor: pointer;
+    justify-content: center;
+}
+
+.btn1 {
+    padding: 5px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    cursor: pointer;
+}
+
+
